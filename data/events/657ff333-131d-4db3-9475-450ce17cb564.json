@@ -1,0 +1,32 @@
+{
+  "audiovisual_files": {
+    "137b3cd4-955b-46e3-9518-565cbc948c47": {
+      "label": "Event1",
+      "file_url": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-243.mp3",
+      "duration": 90
+    },
+    "5f8e547b-b297-4550-baf7-df8ef5ecdfd8": {
+      "label": "",
+      "file_url": "",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Short desc"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Test",
+  "created_at": "2024-08-29T14:42:24.639Z",
+  "created_by": "absempere",
+  "updated_at": "2024-08-29T14:42:24.639Z",
+  "updated_by": "absempere"
+}
